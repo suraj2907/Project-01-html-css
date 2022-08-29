@@ -2,7 +2,7 @@
 
 ![image](./1.png)
 
-[live link](www.google.com)
+[live link](https://project-01-html-css-jet.vercel.app/)
 
 ## Technology Used
 
